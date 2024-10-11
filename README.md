@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Shadow-Coder
 - 👀 I’m interested in programming and,
-- 🌱 I’m currently learning programming, web disign and graphic design.
-- 💞️ I’m looking on how to collaborate with various people
+- 🌱 I’m currently a programmer, web disigner and graphic designer.
+- 💞️ I’m looking on how to collaborate with various people and solve harder problems.
 - 📫 How to reach me : mr.shadowcoder321@gmail.om
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
